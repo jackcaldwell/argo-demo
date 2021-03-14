@@ -9,7 +9,7 @@ spec:
       - port: 12000
         targetPort: 12000
   github:
-    argo-combined-app:
+    go-todo:
       owner: jackcaldwell
       repository: go-todo
       webhook:
